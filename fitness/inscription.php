@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Inscrivez_vous</title>
+	<title>Fitness City  - Inscription </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 
@@ -84,7 +84,7 @@
                                                                 
                                                                 
                                                                 </li>
-                                                                <li><a href="Produits.html">Espace Magasin</a></li>
+                                                                <li><a href="produits.php">Espace Magasin</a></li>
 								
 								<li class="active"><a href="contact.php">Contact</a></li>
                                                                 
@@ -117,7 +117,7 @@
 			</div>
 		</div>
 		<!-- END fh5co-contact -->
-			<footer>
+				<footer>
 			<div id="footer">
 				<div class="container">
 					<div class="row">
@@ -134,15 +134,23 @@
 								<li><i class="icon-phone"></i>+ 1235 2355 98</li>
 								<li><i class="icon-envelope"></i>fitnesscitytn@gmail.com</li>
 								<li><i class="icon-globe2"></i>www.yoursite.com</li>
+                                                                
 							</ul>
 						</div>
-						
+						<div class="col-md-4 animate-box">
+							<h3 class="section-title">Heures d'ouverture : </h3>
+							<ul class="contact-info">
+								<li>Lundi à Vendredi : 9:00 à 22h00</li>
+								<li>Samedi et Dimanche : 9h00 à 19h00</li>
+								
+                                                                
+							</ul>
+						</div>
 					</div>
 					
 				</div>
 			</div>
 		</footer>
-	
 
 	</div>
 	<!-- END fh5co-page -->

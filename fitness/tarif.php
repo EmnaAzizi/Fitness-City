@@ -7,7 +7,7 @@
 	<head>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Fitness </title>
+	<title>Fitness City - Tarifs </title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta name="description" content="Free HTML5 Template by FREEHTML5.CO" />
 	<meta name="keywords" content="free html5, free template, free bootstrap, html5, css3, mobile first, responsive" />
@@ -94,7 +94,7 @@
                                                                 
                                                                 
                                                                 </li>
-                                                                <li><a href="Produits.html">Espace Magasin</a></li>
+                                                                <li><a href="produits.php">Espace Magasin</a></li>
 								
 								<li><a href="contact.php">Contact</a></li>
                                                                 <li><a style="color:whitesmoke"> <u><b>
@@ -206,7 +206,7 @@ Accès illimité à tous les cours et les espaces
 				
 				
 
-		<footer>
+			<footer>
 			<div id="footer">
 				<div class="container">
 					<div class="row">
@@ -223,9 +223,18 @@ Accès illimité à tous les cours et les espaces
 								<li><i class="icon-phone"></i>+ 1235 2355 98</li>
 								<li><i class="icon-envelope"></i>fitnesscitytn@gmail.com</li>
 								<li><i class="icon-globe2"></i>www.yoursite.com</li>
+                                                                
 							</ul>
 						</div>
-						
+						<div class="col-md-4 animate-box">
+							<h3 class="section-title">Heures d'ouverture : </h3>
+							<ul class="contact-info">
+								<li>Lundi à Vendredi : 9:00 à 22h00</li>
+								<li>Samedi et Dimanche : 9h00 à 19h00</li>
+								
+                                                                
+							</ul>
+						</div>
 					</div>
 					
 				</div>

@@ -827,7 +827,7 @@ section
 	align-items: center;
 	width: auto;
 	height: 40px;
-	background: #fe4c50;
+	background:#2f8740;
 	border-radius: 3px;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -837,7 +837,7 @@ section
 }
 .red_button:hover
 {
-	background: #FE7C7F !important;
+	background: #d4f7da!important;
 }
 .red_button a
 {
@@ -1369,7 +1369,7 @@ section
 .product_price
 {
 	font-size: 16px;
-	color: #fe4c50;
+	color: #2f8740;
 	font-weight: 600;
 }
 .product_price span
@@ -1419,7 +1419,7 @@ section
 }
 .product_bubble_red::after
 {
-	border-color: transparent transparent transparent #fe4c50;
+	border-color: transparent transparent transparent #2f8740;;
 }
 .product_bubble_left::after
 {
@@ -1427,7 +1427,7 @@ section
 }
 .product_bubble_red
 {
-	background: #fe4c50;
+	background: #2f8740;
 }
 .product_bubble_green
 {
