@@ -3,6 +3,7 @@ la création d'un site web pour une chaine de salles de sport inclura diverses f
 
 
 
-Technologies utilisées : 
+# Technologies utilisées : 
 
-(PHP & MySQL , Bootstrap4 )
+ - PHP & MySQL 
+ - Bootstrap4 
